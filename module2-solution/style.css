@@ -29,12 +29,20 @@ p {
     padding:10px 0;
     border: 1px solid black;
     width: 40%;
-    height: 20%;
-    background-color: #F586EF;
+    height: auto;
     float:right;
     text-align: center;
 }
 
+#p1{
+    background-color:#F586EF;
+}
+#p2{
+    background-color:#86CEF5;
+}
+#p3{
+    background-color:#EFF076;
+}
 #container ol{
     clear: right;
 }
@@ -172,4 +180,3 @@ p {
         width: 100%;
     }
 }
-
